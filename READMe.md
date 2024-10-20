@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Bachelor of Technology in Computer Science Engineering (CSE) – Graduating in 2026 from IIIT Vadodara.<br><br>☁️ AWS Certified Professional – Passionate about building and architecting cloud solutions.<br><br>💼 Cloud Intern at F13 Technologies – Focusing on real-world cloud computing and DevOps technologies.<br><br>🚀 Cloud Enthusiast – Constantly learning and exploring the latest AWS services and innovations.<br><br>🛠️ DevOps Advocate – Implementing infrastructure as code, automation, and CI/CD pipelines.<br><br>🌟 Committed to Innovation – Leveraging cloud technologies to drive impactful solutions.<br>
+🎓 Bachelor of Technology in Computer Science Engineering (CSE) – Graduating in 2026 from IIIT Vadodara.<br><br>☁️ AWS Certified Cloud Practitioner – Passionate about building and architecting cloud solutions.<br><br>💼 Cloud Intern at F13 Technologies – Focusing on real-world cloud computing and DevOps technologies.<br><br>🚀 Cloud Enthusiast – Constantly learning and exploring the latest AWS services and innovations.<br><br>🛠️ DevOps Advocate – Implementing infrastructure as code, automation, and CI/CD pipelines.<br><br>🌟 Committed to Innovation – Leveraging cloud technologies to drive impactful solutions.<br>
 
 
 ## 🌐 Socials:
